@@ -42,57 +42,57 @@
 //Зробіть сервіс який отримує число від 1 до 12
 // виведіть місяць який дорівнює числу
 
-// const month = prompt('Введіть цифру місяця');
+// const month = prompt('Enter the number of the month');
 // switch (month) {
 //     case ('1'):
-//         alert(month + ' місяць це Січень');
+//         alert(month + ' the month is January');
 //         break;
 
 //     case ('2'):
-//         alert(month + ' місяць це Лютий');
+//         alert(month + 'the month is February');
 //         break;
 
 //     case ('3'):
-//         alert(month + ' місяць це Березень');
+//         alert(month + ' the month is March');
 //         break;
 
 //     case ('4'):
-//         alert(month + ' місяць це Квітень');
+//         alert(month + ' the month is April');
 //         break;
 
 //     case ('5'):
-//         alert(month + ' місяць це Травень');
+//         alert(month + ' the month is May');
 //         break;
 
 //     case ('6'):
-//         alert(month + ' місяць це Червень');
+//         alert(month + ' the month is June');
 //         break;
 
 //     case ('7'):
-//         alert(month + ' місяць це Липень');
+//         alert(month + ' the month is July');
 //         break;
 
 //     case ('8'):
-//         alert(month + ' місяць це Серпень');
+//         alert(month + ' the month is August');
 //         break;
 
 //     case ('9'):
-//         alert(month + ' місяць це Вересень');
+//         alert(month + ' the month is September');
 //         break;
 
 //     case ('10'):
-//         alert(month + ' місяць це Жовтень');
+//         alert(month + ' the month is October');
 //         break;
 
 //     case ('11'):
-//         alert(month + ' місяць це Листопад');
+//         alert(month + ' the month is November');
 //         break;
 
 //     case ('12'):
-//         alert({month} + ' місяць це Грудень');
+//         alert({month} + ' the month is December');
 //         break;
 
-//     default: alert('Немає такого місяця в році');
+//     default: alert('There is no such month in the year');
 // }
 
 //Зробіть сервіс який отримує тризначне число
